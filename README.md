@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1200" height="100" src="https://lh3.googleusercontent.com/proxy/UsQyjhRfVW8SulGKfeEg4jdhd5e6WKqqeNrvwYy9I2N2LDDQvtQAJ7DuGekbR09OQKgJFdO6HkIwKq4-q3mhhAGSSg">
+<img align="center" alt="Coding" width="1200" height="100" src="https://www.brighton.ac.uk/images/School-of-Computing-Engineering-and-Mathematics/Artificial-intelligence-banner-Cropped-1300x340.jpg?f=webp&q=80&w=990">
 <h1 align="center">Hi 👋, I'm Fiza Shahzad</h1>
 <h3 align="center">A passionate Data Scientist Student from Pakistan</h3>
 <img align="center" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
