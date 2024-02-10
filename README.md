@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amfiz582003@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fiza-shahzad-154075283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/fiza-shahzad-154075283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Know about my experiences https://www.linkedin.com/in/fiza-shahzad-154075283/
 
 - ⚡ Fun fact **As a data science enthusiast, I bring a unique blend of analytical prowess and linguistic versatility to the table. Beyond my fluency in English, Spanish, and Python, I have cultivated a passion for unraveling the intricacies of data. This multilingual proficiency not only extends to programming languages but also allows me to navigate and interpret diverse datasets with ease. Much like solving coding challenges, I approach language barriers as puzzles to be decoded, ensuring a seamless communication of insights and ideas.**
 
