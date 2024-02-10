@@ -2,8 +2,9 @@
 <img align="center" alt="Coding" width="1200" height="100" src="https://www.brighton.ac.uk/images/School-of-Computing-Engineering-and-Mathematics/Artificial-intelligence-banner-Cropped-1300x340.jpg?f=webp&q=80&w=990">
 <h1 align="center">Hi 👋, I'm Fiza Shahzad</h1>
 <h3 align="center">A passionate Data Scientist Student from Pakistan</h3>
-<img align="center" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
+<div align="center">
+  <img alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+</div>
 
 - 🌱 I’m currently learning **advanced statistical techniques, employing programming languages like Python and R for data manipulation, exploration, and analysis. They delve into machine learning, exploring not only traditional models but also deep learning architectures to comprehend complex patterns within data.**
 
