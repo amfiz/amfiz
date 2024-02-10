@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1200" height="100" src="https://www.brighton.ac.uk/images/School-of-Computing-Engineering-and-Mathematics/Artificial-intelligence-banner-Cropped-1300x340.jpg?f=webp&q=80&w=990">
+<img align="center" alt="Coding" width="1000" height="150" src="https://img.pikbest.com/backgrounds/20190805/blue-purple-cool-fantasy-light-effect-banner-background_2758856.jpg!w700wp">
 <h1 align="center">Hi 👋, I'm Fiza Shahzad</h1>
 <h3 align="center">A passionate Data Scientist Student from Pakistan</h3>
 <div align="center">
