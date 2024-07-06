@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fiza Shahzad</h1>
 <h3 align="center">A passionate Data Scientist Student from Pakistan</h3>
 <div align="center">
-  <img alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+  <img alt="Coding" width="200" src="https://hamna.dev/static/media/about.4f48d797b62491663893.gif">
 </div>
 
 - 🌱 I’m currently learning **advanced statistical techniques, employing programming languages like Python and R for data manipulation, exploration, and analysis. They delve into machine learning, exploring not only traditional models but also deep learning architectures to comprehend complex patterns within data.**
