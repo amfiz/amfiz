@@ -1,7 +1,7 @@
 
 <img align="center" alt="Coding" width="1000" height="150" src="https://img.pikbest.com/backgrounds/20190805/blue-purple-cool-fantasy-light-effect-banner-background_2758856.jpg!w700wp">
 <h1 align="center">Hi 👋, I'm Fiza Shahzad</h1>
-<h3 align="center">A Data Scientist/AI Engineer from Pakistan</h3>
+<h3 align="center">A Data Scientist and AI Engineer from Pakistan</h3>
 <div align="center">
   <img alt="Coding" width="200" src="https://hamna.dev/static/media/about.4f48d797b62491663893.gif">
 </div>
