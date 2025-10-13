@@ -1,7 +1,7 @@
 
 <img align="center" alt="Coding" width="1000" height="150" src="https://img.pikbest.com/backgrounds/20190805/blue-purple-cool-fantasy-light-effect-banner-background_2758856.jpg!w700wp">
 <h1 align="center">Hi 👋, I'm Fiza Shahzad</h1>
-<h3 align="center">A passionate Data Scientist Student from Pakistan</h3>
+<h3 align="center">A Data Scientist/AI Engineer from Pakistan</h3>
 <div align="center">
   <img alt="Coding" width="200" src="https://hamna.dev/static/media/about.4f48d797b62491663893.gif">
 </div>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python for Data Analysis, R Programming in Statistics, SQL for Database Management, Assembly Language Programming, C/Linux Programming for System-level Development, C++ for High-Performance Computing**
 
-- 📫 How to reach me **amfiz582003@gmail.com**
+- 📫 How to reach me **contact.fizashahzad@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/fiza-shahzad-154075283/
 
